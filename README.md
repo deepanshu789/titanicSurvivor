@@ -23,7 +23,7 @@ Detail: -
 
     URL - (https://www.kaggle.com/heptapod/titanic). 
 
-    This dataset comprises of 891 rows and 13 columns. Then I have made various Comparisions between different attributes by displaying in the for of chart. This tells us about how the survival depends upon different attributes. Then I have various techniques to clean the data by removing any nan values and any outliers effecting our final outcome. At last I have used various types of classifier such as KNeighbors, Decision Tree, Random Forest, Naive Bayes, SVC to predict the outcome. 
+   This dataset comprises of 891 rows and 13 columns. Then I have made various Comparisions between different attributes by displaying in the for of chart. This tells us about how the survival depends upon different attributes. Then I have various techniques to clean the data by removing any nan values and any outliers effecting our final outcome. At last I have used various types of classifier such as KNeighbors, Decision Tree, Random Forest, Naive Bayes, SVC to predict the outcome. 
 
 Steps: -
 
@@ -46,4 +46,4 @@ Steps: -
     
 Results: -  
 
-I used various models and got the best result with SVC with a accuracy of 82.93%. 
+    I used various models and got the best result with SVC with a accuracy of 82.93%. 
