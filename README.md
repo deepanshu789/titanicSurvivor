@@ -8,6 +8,12 @@ Objective: -
 
 In this project I have made a ml model which predict if a person will survive in the titanic crash or not.  
 
+Dependencies:
+1.NumPy
+2.Pandas
+3.SciKit-Learn
+4.Seaborn
+5.Matplotlib
  
 
 Steps: - 
